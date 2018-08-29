@@ -6,7 +6,7 @@ public class EndScene_Controller : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         StartCoroutine("DelayFunction", 2.0);
-        
+        Application.Quit();
 	}
 	
 	// Update is called once per frame

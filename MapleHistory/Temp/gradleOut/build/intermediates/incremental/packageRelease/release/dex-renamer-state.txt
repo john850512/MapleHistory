@@ -1,0 +1,4 @@
+#Wed Aug 29 02:10:41 CST 2018
+base.0=D\:\\UNITY\\Project\\MapleStory\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
