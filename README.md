@@ -9,7 +9,9 @@ Every time I upload new version, I will describe what I do.
 
 #### 2018.8.31 - 完成遊戲架構(文字冒險遊戲)設計，第一章節完成。
 文本對話部分採用Fungus套件
+
 [Youtube](https://www.youtube.com/watch?v=8MUCEdVlY6o&t=1s)
+
 #### 2018.7.15 - 設計簡易介面，可以來回切換不同章節。
 [Youtube](https://www.youtube.com/watch?v=6ctcRedrADs)
 
