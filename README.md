@@ -4,7 +4,7 @@
 ## Description
 An app for reading novel of MapleStory, which had originated by me.
 
-## How is the progress?
+## What is the progress?
 Every time I upload new version, I will describe what I do.
 
 #### 2018.8.31 - 完成遊戲架構(文字冒險遊戲)設計，第一章節完成。
@@ -13,7 +13,6 @@ Every time I upload new version, I will describe what I do.
 [Youtube](https://www.youtube.com/watch?v=8MUCEdVlY6o&t=1s)
 
 #### 2018.7.15 - 設計簡易介面，可以來回切換不同章節。
-[Youtube](https://www.youtube.com/watch?v=6ctcRedrADs)
 
 <img src="img/2.jpg" alt="Smiley face"  width="50%"><img src="img/3.jpg" alt="Smiley face"  width="50%">
 
