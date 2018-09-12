@@ -27,10 +27,12 @@ If you want to use my project to do any things your are interested in, you can i
 - C#
 - Visual Studio
 
-## Novel reference
+## Novel Reference
 [是妳，改變了我，在這MapleStory。](https://forum.gamer.com.tw/G1.php?bsn=07650&parent=4682)
 
 ## Detail
 In the future, I will put the detail of development on my blog.
 
 [ [Unity]Maplesotry文字冒險遊戲 – MapleHistory(未完成) ](https://john850512.wordpress.com/2018/07/15/unitymaplesotry%E6%96%87%E5%AD%97%E5%86%92%E9%9A%AA%E9%81%8A%E6%88%B2-maplehistory%E5%B0%9A%E6%9C%AA%E5%AE%8C%E6%88%90/#more-2455)
+
+If you like this project, welcome to give me some feekback(something like star xD).
