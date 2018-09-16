@@ -12,7 +12,7 @@ Demo version: MapleHistory_0829
 Every time I upload new version, I will describe what I do.
 
 
-- 2018.9.17 - 第二章節完成
+- 2018.9.17 - 第二章節完成。
   - 第二章節的故事背景與第一章節沒有差異太大，所以不用耗費太多心力在找尋素材上
   - 優化章節選單，現在選擇不同選單可以同時出現章節名稱
   - 我把部分字體改成開源字體了，因為前陣子字體事件~~我怕被吉~~
