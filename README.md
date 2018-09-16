@@ -4,9 +4,13 @@
 ## Description
 An app for reading novel of MapleStory, which had originated by myself.
 
+## Demo
+Demo version: MapleHistory_0829
+[Youtube](https://www.youtube.com/watch?v=8MUCEdVlY6o&t=1s)
+
 ## What is the progress?
 Every time I upload new version, I will describe what I do.
-Progress demo at the time: [Youtube](https://www.youtube.com/watch?v=8MUCEdVlY6o&t=1s)
+
 
 - 2018.9.17 - 第二章節完成
   - 第二章節的故事背景與第一章節沒有差異太大，所以不用耗費太多心力在找尋素材上
