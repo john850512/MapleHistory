@@ -1,5 +1,5 @@
 # MapleHistory
-<img src="img/2.jpg" width="70%" >
+<p align="center"><img src="img/2.jpg" width="70%" ></p>
 
 ## Description
 An app for reading novel of MapleStory, which had originated by myself.
@@ -8,34 +8,41 @@ An app for reading novel of MapleStory, which had originated by myself.
 Demo version: MapleHistory_0829
 [Youtube](https://www.youtube.com/watch?v=8MUCEdVlY6o&t=1s)
 
-## What is the progress?
+## Progress
 Every time I upload new version, I will describe what I do.
 
-
+- 2018.11.18 - 第三章節完成。
+  - 字體、介面優化，更加舒適的瀏覽體驗
+  - 希望製作過程中可以體驗到最原始的楓之谷，音效、圖片上的取材花費了很多時間與心力，如果喜歡請給星星支持本專案QQ
+  - 請下載[Release_APP/MapleHistory_1118.apk](https://github.com/john850512/MapleHistory/blob/master/Release_APP/MapleHistory_1118.apk)
 - 2018.9.17 - 第二章節完成。
   - 第二章節的故事背景與第一章節沒有差異太大，所以不用耗費太多心力在找尋素材上
   - 優化章節選單，現在選擇不同選單可以同時出現章節名稱
   - 我把部分字體改成開源字體了，因為前陣子字體事件~~我怕被吉~~
-  - 這次暫時先開放.apk檔，請下載[MapleHistory_0917.apk](https://github.com/john850512/MapleHistory/blob/master/MapleHistory_0917.apk)並在手機上安裝試玩
+  - 這次暫時先開放.apk檔，請下載[MapleHistory_0917.apk](https://github.com/john850512/MapleHistory/blob/master/Release_APP/MapleHistory_0917.apk)並在手機上安裝試玩
   <img src="img/4.JPG" width="50%" >
+  
 - 2018.8.31 - 完成遊戲架構(文字冒險遊戲)設計，第一章節完成。
   - 修復章節切換造成的bug
   - 文本對話部分採用Fungus套件
-- 2018.7.15 - 設計簡易介面，可以來回切換不同章節。
+  - [MapleHistory_0829.apk](https://github.com/john850512/MapleHistory/blob/master/Release_APP/MapleHistory_0829.apk)
 
 <img src="img/2.jpg" alt="Smiley face"  width="50%"><img src="img/3.jpg" alt="Smiley face"  width="50%">
 
 ## How to Start
-In th folder, I put the .apk file which you can just install in your android device any just try it.
+In the Release_APP folder, I put the .apk file which you can just install in your android device any just try it.
 
 If you want to use my project to do any things your are interested in, you can import my unitypackage or open my unity project.
-
-<img src="img/1.PNG" alt="Smiley face" >
 
 ## Use Language & Environment
 - Unity
 - C#
 - Visual Studio
+
+## TODO
+- [ ] 存檔、讀檔功能
+- [ ] 每一章節結束後可以再選擇清單上看到"已閱讀"的標記
+- [ ] 更多的互動方式，透過某些互動取得點數進行章節瀏覽的模式
 
 ## Novel Reference
 [是妳，改變了我，在這MapleStory。](https://forum.gamer.com.tw/G1.php?bsn=07650&parent=4682)
