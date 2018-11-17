@@ -5,8 +5,8 @@
 An app for reading novel of MapleStory, which had originated by myself.
 
 ## Demo
-Demo version: MapleHistory_0829
-[Youtube](https://www.youtube.com/watch?v=8MUCEdVlY6o&t=1s)
+Demo version: MapleHistory_1118
+[Youtube](https://www.youtube.com/watch?v=IOR61_i1YK0)
 
 ## Progress
 Every time I upload new version, I will describe what I do.
