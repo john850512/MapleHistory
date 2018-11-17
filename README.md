@@ -1,5 +1,5 @@
 # MapleHistory
-<p align="center"><img src="img/icon.png" " ></p>
+<p align="center"><img src="img/2.jpg" width="50%"></p>
 
 ## Description
 An app for reading novel of MapleStory, which had originated by myself.
@@ -29,8 +29,7 @@ Every time I upload new version, I will describe what I do.
   - 我把部分字體改成開源字體了，因為前陣子字體事件~~我怕被吉~~
   - 這次暫時先開放.apk檔，請下載[MapleHistory_0917.apk](https://github.com/john850512/MapleHistory/blob/master/Release_APP/MapleHistory_0917.apk)並在手機上安裝試玩
   <img src="img/4.JPG" width="50%" >
-  
-<img src="img/Boss_2.png" width="200" height="200" align = "left">
+
 第一、二章主線圍繞在主角與女主角的第一次相遇，也就是在玩具城101組隊任務的情景。<br>
 
 說起玩具城的組隊任務，大家一定不會忘記這個口號"133 221 333 123 111"，玩具城組隊任務在早期陪伴著許多玩家，一起打怪、一起聊天，慢慢的彼此的友誼越來越深厚......<br>
