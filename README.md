@@ -2,7 +2,7 @@
 <p align="center"><img src="img/2.jpg" width="50%"></p>
 
 ## Description
-An AVG(adventure Game) of MapleStory, which had originated by myself.
+An mobile-AVG(adventure Game) of MapleStory, which had originated by myself.
 
 ## Demo
 Demo version: MapleHistory_1118
